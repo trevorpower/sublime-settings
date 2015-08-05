@@ -1,0 +1,12 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Cucumber",
+		"Gherkin (Cucumber) Formatter",
+		"Package Control",
+		"PowerShell"
+	]
+}
