@@ -1,12 +1,12 @@
 {
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
-   "theme": "Soda Dark 3.sublime-theme",
-	"font_size": 11,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 3,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

@@ -1,11 +1,17 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"JSX",
 		"Package Control",
 		"PowerShell",
+		"Sass",
+		"SassBeautify",
+		"Solarized Toggle",
 		"Theme - Soda"
 	]
 }
