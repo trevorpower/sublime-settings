@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Gulp",
 		"Indent XML",
 		"INI",
@@ -17,6 +18,8 @@
 		"PowerShell",
 		"Pretty JSON",
 		"Sass",
+		"SassBeautify",
+		"Solarized Toggle",
 		"Theme - Soda"
 	]
 }
